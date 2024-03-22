@@ -1,26 +1,26 @@
-# One HTML Games & Utils
+# One ZIP file games & Utils
 
-Built during COVID-19 lockdown in my base.
+Made during class
 
-### 📃 One Single HTML File
+### 📃 One Single Zip File
 
-No CSS, Javascript Import. All Embedded in One HTML File.
+No CSS, Javascript Import. All Embedded in One Zip File.
 
 ### 🚚 Super Fast Code Shipping
 
-Loading Single HTML File... and Done!
+Loading Single File... and Done!
 
-### 🛒 No Dependency
+### 🛒 No programs
 
-Full Vanilia Javascript
+Just download and open!
 
 ### 😈 No code split
 
-I Gave up Maintenance...
+Yep.
 
-### ⚠ Support Only PC Chrome Browser
+### ⚠ Support Only Chromebook Browser
 
-No Mobile Support 🤔
+No Mobile Support? 🤔
 
 ## [Brick Breaker](https://html-games.surge.sh/brick-breaker)
 
